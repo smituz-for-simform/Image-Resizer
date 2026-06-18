@@ -1,0 +1,1 @@
+#Image Resize on Upload of Image on a Storage Account using Azure Function App
